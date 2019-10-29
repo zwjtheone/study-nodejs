@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/uplpad-file.iml" filepath="$PROJECT_DIR$/.idea/uplpad-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/study-nodejs.iml" filepath="$PROJECT_DIR$/.idea/study-nodejs.iml" />
     </modules>
   </component>
 </project>
