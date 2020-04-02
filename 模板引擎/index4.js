@@ -7,7 +7,7 @@
   与数据一起执行，生成最终字符串
  */
 
-// XSS漏洞
+// XSS漏洞 跨站脚本攻击
 var compile = function(str) {
   var tpl = str.replace(/\n/g, '\\n')
     .replace(/<%=([\s\S]+?)%>/g, function (match, code) {
